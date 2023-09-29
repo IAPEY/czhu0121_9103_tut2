@@ -1,6 +1,6 @@
 # Quiz8
 ## Section 1：Image style transfer
-  Image style transfer is a technique that transfer the style of a image to another style meanwhile hold the content of the original image.
+&emsp;Image style transfer is a technique that transfer the style of a image to another style meanwhile hold the content of the original image.
 
   I got inspired by this video.
 [youtube:style-transfer](https://www.youtube.com/watch?v=Cqh8804Mq7g)
