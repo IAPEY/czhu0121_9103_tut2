@@ -2,7 +2,7 @@
 ## Section 1：Image style transfer
 &emsp;Image style transfer is a technique that transfer the style of a image to another style meanwhile hold the content of the original image.
 
-&emsp;I got inspired by this video.
+I got inspired by this video.
 [youtube:style-transfer](https://www.youtube.com/watch?v=Cqh8804Mq7g)
 
 ![image](https://github.com/IAPEY/czhu0121_9103_tut2/assets/129077906/12c9c307-599d-4dc7-bdfe-b2f19a31995e)
