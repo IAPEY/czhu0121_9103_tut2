@@ -11,7 +11,7 @@
 &emsp;I believed that this must be beneficial cause we can transfer our work to the style of a masterpiece such as "starry night" and so on.In our work, we can generate some patterns by p5.js and transfer the style of our code to one of the master piece,to create some amazing effects. The users as well are able to control the process of style transfer to interact with our work.
 
 ## Section 2：fast-style-transfer
-&emsp;Example link of reference:
+Link of code reference:
 [fast-stytle-transfer](https://github.com/lengstrom/fast-style-transfer)
 ![image](https://github.com/IAPEY/czhu0121_9103_tut2/assets/129077906/150fc666-2b0c-46a8-9264-656eba9ae5fa)
 ![image](https://github.com/IAPEY/czhu0121_9103_tut2/assets/129077906/ddf20d34-75f1-4250-a94e-bfe67badd4a0)
